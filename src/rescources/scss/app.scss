@@ -1,0 +1,12 @@
+@import 'variables';
+
+h1 {
+    font-size: 40px;
+    color: $redColor;
+    code {
+      font-face: Roboto Mono;
+    }
+} 
+h2 {
+  color: $greenColor;
+}
